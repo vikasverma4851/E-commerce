@@ -9,6 +9,6 @@ Currently, two official plugins are available:
 
 // Run a App
 
-Frontend - npm start
-backend - node .\index.js
-admin - npm run dev
+Frontend - npm start  ||
+backend - node .\index.js  ||
+admin - npm run dev ||
